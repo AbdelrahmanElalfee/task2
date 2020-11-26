@@ -1,0 +1,39 @@
+#loginform{
+    position: absolute;
+    top: 46%;
+    transform: translate(50%, -50%);
+    text-align: center;
+    width: 400px;
+    background: rgba(46, 44, 44, 0.233);
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    border-radius: 10px;
+    margin-top: 70px;
+}
+#copyright{
+    margin-top: 43%;
+    text-align: center;
+}
+.vertical { 
+    margin-top: 10%;
+    border-left: 2px solid black; 
+    height: 400px; 
+    position:absolute; 
+    left: 52%;
+}
+#login{
+    position: absolute;
+    left: 50%;
+    transform: translate(50%, 50%);
+    text-align: center;
+    width: 400px;
+    background: rgba(46, 44, 44, 0.233);
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
